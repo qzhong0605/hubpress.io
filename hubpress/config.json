@@ -4,7 +4,10 @@
     "repositoryName": "qzhong0605.github.io",
     "branch": "master"
   },
-  "site": {},
+  "site": {
+    "title": "ext4 atanony",
+    "description": "ext4文件解析"
+  },
   "socialnetwork": {
     "email": "qzhong2013@gmail.com",
     "github": "https://github.com/qzhong0605"
